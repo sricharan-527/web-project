@@ -28,3 +28,21 @@ body {
     background-color: rgb(67, 62, 62);
     color: white;
 }
+
+.navbar {
+    text-align: center;
+    border-bottom: 3px solid black;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    background-color: white;
+}
+
+.navbar a {
+    margin-left: 15px;
+    text-decoration: none;
+    color: grey;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
